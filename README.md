@@ -1,1 +1,1 @@
-# gasolina-2021
+Este repositório possui dados sobre o preço da gasolina no estado de São Paulo em Julho de 2021. A partir desses dados, foi gerado o gráfico para podermos fazer inferencias e gerar insights.
